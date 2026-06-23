@@ -2,7 +2,7 @@
 
 # Hey, I'm Sukesh 👋
 
-### AI Engineer · Full Stack Developer · Final Year CS Student
+### AI Engineer @ digitide
 
 *Building real things with AI, APIs, and a lot of curiosity.*
 
