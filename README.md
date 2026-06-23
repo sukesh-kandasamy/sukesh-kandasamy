@@ -67,8 +67,8 @@
 |------|---------|--------|
 | 🤖 AI Engineering Intern | Digitide | Mar 2026 – Present |
 | 🧠 AI Development Intern | Safebox | Oct 2025 – Dec 2025 |
-| 🌐 Full Stack Developer Intern | — | Dec 2024 – Jan 2025 |
-| 🏗️ PHP Full Stack Developer (Project) | SREC | Apr 2024 – Nov 2024 |
+| 🌐 Full Stack Developer Intern | Oxyher | Dec 2024 – Jan 2025 |
+
 
 ---
 
