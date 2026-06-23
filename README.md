@@ -1,5 +1,8 @@
 <div align="center">
 
+<div align="center">
+  <img src="https://github.com/sukesh-kandasamy.png" width="120" style="border-radius: 50%;" />
+</div>
 # Hey, I'm Sukesh 👋
 
 ### AI Engineer @ digitide
