@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 B.Tech in **AI & Data Science** @ Sri Ramakrishna Engineering College, Coimbatore *(Graduating Nov 2026)*
+- 🎓 B.Tech in **AI & Data Science** @ Sri Ramakrishna Engineering College, Coimbatore *(Graduated Apirl 2026)*
 - 💼 Currently working full-time as an **AI Engineering Intern @ Digitide**
 - 🏆 Won **SREC Hackathon 1.0 (2024)** — built a hostel automation system adopted for real-world use
 - 🥇 Received **Intern Excellence Award @ Safebox (2025)** — for building an AI-powered insurance insights module
